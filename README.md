@@ -8,7 +8,7 @@ Powered by [Midnight](https://midnight.network) + [Edda Labs](https://eddalabs.i
 
 ## Vision
 
-Create the first **Privacy-Preserving Community Intelligence Agent** where users interact with an AI assistant ("Spy") that understands the Midnight ecosystem, stores preferences privately, and delivers personalized intelligence without exposing user data.
+Utilize the first **Privacy-Preserving Community Intelligence Nightforce Agent** where users interact with an AI assistant ("Spy") that understands the Midnight ecosystem, stores preferences privately, and delivers personalized intelligence without exposing user data.
 
 **Think:**
 - ChatGPT + Midnight
@@ -52,18 +52,18 @@ Earn badges and prove contributions:
 - **Builder** - Submitted project
 - **Nightforce Elite** - Participated in 20 Spaces
 - **Educator** - Published educational content
-- **Recruiter** - Brought new builders
+- **Recruiter** - Brought new Nightforce Recruits
 
 **Unique Feature:** Proof-of-Contributor using Midnight selective disclosure
 - ✅ Prove you have a badge
 - ❌ Without revealing wallet, history, or exact score
 
 ### 🎯 Nightforce Missions
-Complete community quests for rewards:
-- **Scout Mission** - Review new ecosystem project (+50 XP)
+Complete Zealy Community Quests for rewards:
+- **Scout Mission** - Review two (2) new ecosystem project (+50 XP)
 - **Intel Mission** - Summarize Edda Labs video (+100 XP)
 - **Builder Mission** - Create educational thread (+250 XP)
-- **Recruit Mission** - Bring new builder (+200 XP)
+- **Recruit Mission** - Bring new Nightforce Recruit (+200 XP)
 
 ---
 
@@ -89,7 +89,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) to view the application.
 
-### Build for Production
+### Build for Engagement Efforts
 
 ```bash
 npm run build
@@ -167,7 +167,7 @@ nightforce/
 - **Primary:** `#00d4ff` (Spy Cyan)
 - **Background:** `#0a0a0f` (Midnight Dark)
 - **Accent:** Midnight blue palette (50-950)
-- **Text:** `#e0e0e0` (Off-white)
+- **Text:** `#FFFFFF` (White Midnight Brand White)
 
 ### Typography
 - **Font Family:** JetBrains Mono, Fira Code (monospace)
@@ -253,4 +253,4 @@ MIT License - See [LICENSE](LICENSE) for details
 
 ---
 
-**Built with 🔒 privacy, 🤖 AI, and 🌙 Midnight**
+**Built with 🔒 privacy, 🤖 AI Spy, and 🌙 Midnight**
