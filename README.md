@@ -1,6 +1,6 @@
 # 🕶️ Nightforce Intelligence
 
-**The Private AI Operations Center for Midnight Builders**
+**The Private AI Operations Center for Midnight Nightforce**
 
 Powered by [Midnight](https://midnight.network) + [Edda Labs](https://eddalabs.io)
 
