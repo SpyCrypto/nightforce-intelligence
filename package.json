@@ -3,11 +3,16 @@
   "version": "1.0.0",
   "description": "Nightforce Intelligence - Privacy-Preserving Community Intelligence Agent for Midnight",
   "private": true,
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "webpack-analyze": "cross-env ANALYZE=true next build"
   },
   "dependencies": {
     "next": "15.1.0",
@@ -28,6 +33,8 @@
     "tailwindcss": "^3.4.0",
     "autoprefixer": "^10.4.0",
     "eslint": "^9.16.0",
-    "eslint-config-next": "15.1.0"
+    "eslint-config-next": "15.1.0",
+    "cross-env": "^7.0.3",
+    "@next/bundle-analyzer": "^15.1.0"
   }
 }
