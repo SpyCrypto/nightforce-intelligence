@@ -14,8 +14,10 @@ import {
 } from "lucide-react";
 import { useWalletContext } from "./WalletProvider";
 
+type Tab = "dashboard" | "spy" | "vault" | "missions" | "reputation";
+
 interface DashboardProps {
-  onNavigate: (tab: string) => void;
+  onNavigate: (tab: Tab) => void;
 }
 
 const newsItems = [
