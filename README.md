@@ -253,4 +253,4 @@ MIT License - See [LICENSE](LICENSE) for details
 
 ---
 
-**Built with 🔒 privacy, 🤖 AI Spy, and 🌙 Midnight**
+**Built with 🔒 privacy, 🤖 Spy AI, and 🌙 Midnight**
