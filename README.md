@@ -2,7 +2,7 @@
 
 **The Private AI Operations Center for Midnight Nightforce**
 
-Powered by [Midnight](https://midnight.network) + [Edda Labs](https://eddalabs.io)  Built on / using / for Midnight Network
+Powered by [Midnight](https://midnight.network) + [Edda Labs](https://eddalabs.io)  
 
 ---
 
