@@ -121,7 +121,7 @@ If you use [Claude Code](https://claude.com/claude-code), it will prompt you to 
 
 ## 📚 More Documentation
 
-- [`DEPLOYMENT_PROCEDURE.md`](./DEPLOYMENT_PROCEDURE.md) — Vercel deployment guide (Git LFS, env vars, build settings).
+- [`DEPLOYMENT_PROCEDURE.md`](./DEPLOYMENT_PROCEDURE.md) — Netlify deployment guide (env vars, build settings).
 - [`educational-material/`](./educational-material/) — Midnight Sessions video walkthroughs and content plans by Edda Labs.
 
 ---

@@ -1,0 +1,12 @@
+[build]
+  command = "pnpm build-production"
+  publish = "frontend-vite-react/dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+  PNPM_VERSION = "10.14.0"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

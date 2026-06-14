@@ -6,7 +6,7 @@
   "scripts": {
     "compact": "turbo run compact",
     "build": "turbo run build",
-    "build-production": "git lfs pull && cd counter-contract && pnpm build && cd ../frontend-vite-react && pnpm build",
+    "build-production": "cd counter-contract && pnpm build && cd ../frontend-vite-react && pnpm build",
     "setup-standalone": "cd counter-cli && pnpm setup-undeployed",
     "dev:frontend": "cd frontend-vite-react && pnpm dev",
     "lint": "turbo run lint"
