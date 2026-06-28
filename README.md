@@ -119,6 +119,11 @@ This repo ships with a project-level [`.claude/settings.json`](./.claude/setting
 
 If you use [Claude Code](https://claude.com/claude-code), it will prompt you to trust these project settings the first time you open the repo. Accept the prompt and the plugin installs automatically — no manual marketplace setup needed. If you don't use Claude Code, this is a no-op.
 
+## 📺 Resources
+
+- [Charles Hoskinson's Crypto Channel](https://www.youtube.com/@charleshoskinsoncrypto) — Insights on blockchain and cryptocurrency
+- [Midnight Network Channel](https://www.youtube.com/@midnight.network) — Official Midnight Network updates and tutorials
+
 ## 📚 More Documentation
 
 - [`DEPLOYMENT_PROCEDURE.md`](./DEPLOYMENT_PROCEDURE.md) — Netlify deployment guide (env vars, build settings).
@@ -127,4 +132,3 @@ If you use [Claude Code](https://claude.com/claude-code), it will prompt you to 
 ---
 
 <div align="center"><p>Built with ❤️ by <a href="https://eddalabs.io">Edda Labs</a></p></div>
-
