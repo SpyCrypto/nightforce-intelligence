@@ -123,6 +123,7 @@ If you use [Claude Code](https://claude.com/claude-code), it will prompt you to 
 
 - [Charles Hoskinson's Crypto Channel](https://www.youtube.com/@charleshoskinsoncrypto) — Insights on blockchain and cryptocurrency
 - [Midnight Network Channel](https://www.youtube.com/@midnight.network) — Official Midnight Network updates and tutorials
+- [Edda Labs Channel](https://www.youtube.com/@eddalabs) — Project walkthroughs and educational content
 
 ## 📚 More Documentation
 
